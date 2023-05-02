@@ -78,18 +78,58 @@ const AboutUs = () => {
             </ul>
           </div>
           <div className="w-[60%]">
-          <span className="text-3xl font-bold text-gray-800 p-4 m-4 flex justify-center">
-          APPROACHES TO LEARNING
-        </span>
-        <p className="text-justify p-4 m-4">
-        Himalaya waldorf school offers a holistic education to our children. We want our children to grow into physically, emotionally and mentally healthy individuals.<br/>
-We believe that children need to grow and learn in diverse ways. Himalaya Waldorf school focuses equally equally on a children’s intellectual, emotional and physical needs. Moreover, we deeply believe in educating children in relation to their environment and heritage to provide them with a strong sense of identity.
-By addressing the multifaceted needs of our children, we aim to raise 
-empowered human beings who are better equipped to give back to their families, communities and society.
-Our curriculum integrates the principles of Waldorf education- founded in Europe- with the diverse culture and traditions of the Himalayan region to create an experience that is unique, meaningful and relevant for our children.
-
-        </p>
+            <span className="text-3xl font-bold text-gray-800 p-4 m-4 flex justify-center">
+              APPROACHES TO LEARNING
+            </span>
+            <p className="text-justify p-4 m-4">
+              Himalaya waldorf school offers a holistic education to our
+              children. We want our children to grow into physically,
+              emotionally and mentally healthy individuals.
+              <br />
+              We believe that children need to grow and learn in diverse ways.
+              Himalaya Waldorf school focuses equally equally on a children’s
+              intellectual, emotional and physical needs. Moreover, we deeply
+              believe in educating children in relation to their environment and
+              heritage to provide them with a strong sense of identity. By
+              addressing the multifaceted needs of our children, we aim to raise
+              empowered human beings who are better equipped to give back to
+              their families, communities and society. Our curriculum integrates
+              the principles of Waldorf education- founded in Europe- with the
+              diverse culture and traditions of the Himalayan region to create
+              an experience that is unique, meaningful and relevant for our
+              children.
+            </p>
           </div>
+        </div>
+        <div>
+        <div className="w-[40%] ">
+          <span className="text-3xl font-bold text-gray-800 p-4 m-4 ">
+            FACILITIES
+          </span>
+          <p className="text-justify p-4 m-4">
+            <strong> Library: </strong>We have a well-stocked library with all
+            of the necessary texts and a wide range of books.There is a library
+            that meets the needs of each grade.
+            <br /> <br />
+            <strong>ECA and CCA:</strong> Our school provides holistic
+            education, prioritizing both ECA and CCA activities equally. We
+            organize athletics, cultural programs, and other activities for our
+            students.
+            <br /> <br />
+            <strong>Transportation :</strong> Transportation for students is
+            provided from important pick up points. Cafeteria : Our school's
+            cafeteria serves three healthy meals in a clean environment,
+            ensuring students have access to healthy food choices.
+            <br /> <br />
+            <strong>Outside play ground : </strong> Himalaya waldorf Waldorf
+            School has a spacious playground where children get all the
+            opportunities for developing their goals, motoric, social and
+            physical skills.
+          </p>
+        </div>
+        <div>
+             
+        </div>
         </div>
       </div>
     </div>
